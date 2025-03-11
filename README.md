@@ -1,7 +1,5 @@
-### Hi there 👋
-### About me:
-- Graduate of the **Software Development and Network Engineering program** at Sheridan College
-- Self-taught developer with passion for building high-quality software with **five years of experience**
+# halait
+## About me:
 - Ability to quickly and independently learn and apply new skills and knowledge
 - **Experience designing and developing large software systems** using general programming languages such as Python and Java
 - **Experience developing deep learning models** using Keras and TensorFlow
